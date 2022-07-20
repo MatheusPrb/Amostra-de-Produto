@@ -4,9 +4,9 @@ body {
    
 }
 .container {
-    width: 55%;
-    height: 600px;
-    background-color: white;
+    width: 50%;
+    height: 500px;
+    background-color: hsl(0, 0%, 100%);
     border-radius: 10px;  
     position: absolute;
     top: 50%;
@@ -17,6 +17,13 @@ body {
 }
 img {
     width: auto;
-    height: 600px;
+    height: 500px;
     border-radius: 10px 0 0 10px;
+}
+.principal {
+    margin-left: 5%;
+    margin-top: 5%;
+}
+h2 {
+    color: green;
 }
