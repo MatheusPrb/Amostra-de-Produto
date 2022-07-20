@@ -1,3 +1,19 @@
-.cor {
-    background-color: aquamarine;
+body {
+    background-color: hsl(30, 38%, 92%);
+   /*font-family: 'Montserrat', sans-serif;*/
+   
+}
+.container {
+    width: 55%;
+    height: 600px;
+    background-color: white;
+    border-radius: 10px;
+    position: relative;
+    
+    
+}
+img {
+    width: auto;
+    height: 600px;
+    border-radius: 10px 0 0 10px;
 }
