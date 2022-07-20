@@ -4,7 +4,7 @@ body {
    
 }
 .container {
-    width: 50%;
+    width: 45%;
     height: 500px;
     background-color: hsl(0, 0%, 100%);
     border-radius: 10px;  
@@ -26,4 +26,16 @@ img {
 }
 h2 {
     color: green;
+}
+button {
+    width: 120%;
+    height: 10%;
+    background-color: hsl(158, 36%, 37%);
+    color: hsl(0, 0%, 100%);
+    border-radius: 10px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    
+
 }
